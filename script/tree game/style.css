@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+}
+
+.rust-file {
+    color: orange;
+    font-size: xx-large;
+}
+.source{
+    color: aliceblue;
+    width: fit-content;
+    height: fit-content;
+    background-color: blueviolet;
+}
